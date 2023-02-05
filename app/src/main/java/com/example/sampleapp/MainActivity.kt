@@ -35,7 +35,8 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Greeting(name: String) {
 //    ShowTextField()
-    MyTabs()
+//    MyTabs()
+    ShowDialog()
 }
 
 @Preview(showBackground = true)
