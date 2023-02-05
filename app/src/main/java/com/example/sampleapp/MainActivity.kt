@@ -37,7 +37,8 @@ fun Greeting(name: String) {
 //    ShowTextField()
 //    MyTabs()
 //    ShowDialog()
-    ShowBottomSheet()
+//    ShowBottomSheet()
+    BottomNavContainer()
 }
 
 @Preview(showBackground = true)
