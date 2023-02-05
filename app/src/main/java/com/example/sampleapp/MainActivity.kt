@@ -36,7 +36,8 @@ class MainActivity : ComponentActivity() {
 fun Greeting(name: String) {
 //    ShowTextField()
 //    MyTabs()
-    ShowDialog()
+//    ShowDialog()
+    ShowBottomSheet()
 }
 
 @Preview(showBackground = true)
